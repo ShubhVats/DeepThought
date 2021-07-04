@@ -1,0 +1,21 @@
+[
+  { "id": 1, "name": "Strawberry", "categoryId": 1, "count": 0 },
+  { "id": 2, "name": "Blueberry", "categoryId": 1, "count": 0 },
+  { "id": 3, "name": "Orange", "categoryId": 1, "count": 0 },
+  { "id": 4, "name": "Banana", "categoryId": 1, "count": 0 },
+  { "id": 5, "name": "Apple", "categoryId": 1, "count": 0 },
+  { "id": 6, "name": "Carrot", "categoryId": 2, "count": 0 },
+  { "id": 7, "name": "Celery", "categoryId": 2, "count": 0 },
+  { "id": 8, "name": "Mushroom", "categoryId": 2, "count": 0 },
+  { "id": 9, "name": "Green Pepper", "categoryId": 2, "count": 0 },
+  { "id": 10, "name": "Eggs", "categoryId": 3, "count": 0 },
+  { "id": 11, "name": "Cheese", "categoryId": 3, "count": 0 },
+  { "id": 12, "name": "Butter", "categoryId": 3, "count": 0 },
+  { "id": 13, "name": "Chicken", "categoryId": 4, "count": 0 },
+  { "id": 14, "name": "Beef", "categoryId": 4, "count": 0 },
+  { "id": 15, "name": "Pork", "categoryId": 4, "count": 0 },
+  { "id": 16, "name": "Fish", "categoryId": 4, "count": 0 },
+  { "id": 17, "name": "Rice", "categoryId": 5, "count": 0 },
+  { "id": 18, "name": "Pasta", "categoryId": 5, "count": 0 },
+  { "id": 19, "name": "Bread", "categoryId": 5, "count": 0 }
+]

@@ -1,0 +1,3 @@
+Two problems are : 
+    1. super(props) not called while intializing state thus the state won't be initalized.
+    2. there is a syntax error "<h2>My Component ({this.state.clicks} clicks})</h2>" a loose bracket.

@@ -1,0 +1,135 @@
+[
+  {
+    "id": 1,
+    "name": "Strawberry",
+    "categoryId": 1,
+    "count": 1,
+    "strikeThrough": "line-through"
+  },
+  {
+    "id": 2,
+    "name": "Blueberry",
+    "categoryId": 1,
+    "count": 0,
+    "strikeThrough": "none"
+  },
+  {
+    "id": 3,
+    "name": "Orange",
+    "categoryId": 1,
+    "count": 0,
+    "strikeThrough": "none"
+  },
+  {
+    "id": 4,
+    "name": "Banana",
+    "categoryId": 1,
+    "count": 2,
+    "strikeThrough": "none"
+  },
+  {
+    "id": 5,
+    "name": "Apple",
+    "categoryId": 1,
+    "count": 0,
+    "strikeThrough": "none"
+  },
+  {
+    "id": 6,
+    "name": "Carrot",
+    "categoryId": 2,
+    "count": 0,
+    "strikeThrough": "none"
+  },
+  {
+    "id": 7,
+    "name": "Celery",
+    "categoryId": 2,
+    "count": 0,
+    "strikeThrough": "none"
+  },
+  {
+    "id": 8,
+    "name": "Mushroom",
+    "categoryId": 2,
+    "count": 0,
+    "strikeThrough": "none"
+  },
+  {
+    "id": 9,
+    "name": "Green Pepper",
+    "categoryId": 2,
+    "count": 0,
+    "strikeThrough": "none"
+  },
+  {
+    "id": 10,
+    "name": "Eggs",
+    "categoryId": 3,
+    "count": 4,
+    "strikeThrough": "none"
+  },
+  {
+    "id": 11,
+    "name": "Cheese",
+    "categoryId": 3,
+    "count": 0,
+    "strikeThrough": "none"
+  },
+  {
+    "id": 12,
+    "name": "Butter",
+    "categoryId": 3,
+    "count": 0,
+    "strikeThrough": "none"
+  },
+  {
+    "id": 13,
+    "name": "Chicken",
+    "categoryId": 4,
+    "count": 0,
+    "strikeThrough": "none"
+  },
+  {
+    "id": 14,
+    "name": "Beef",
+    "categoryId": 4,
+    "count": 3,
+    "strikeThrough": "none"
+  },
+  {
+    "id": 15,
+    "name": "Pork",
+    "categoryId": 4,
+    "count": 0,
+    "strikeThrough": "none"
+  },
+  {
+    "id": 16,
+    "name": "Fish",
+    "categoryId": 4,
+    "count": 0,
+    "strikeThrough": "none"
+  },
+  {
+    "id": 17,
+    "name": "Rice",
+    "categoryId": 5,
+    "count": 0,
+    "strikeThrough": "none"
+  },
+  {
+    "id": 18,
+    "name": "Pasta",
+    "categoryId": 5,
+    "count": 0,
+    "strikeThrough": "none"
+  },
+  {
+    "id": 19,
+    "name": "Bread",
+    "categoryId": 5,
+    "count": 0,
+    "strikeThrough": "none"
+  }
+]
